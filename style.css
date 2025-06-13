@@ -8,3 +8,10 @@ body{
 main{
     background-color: darkviolet;
 }
+footer{
+    background-image: url(https://i0.wp.com/californiawaterblog.com/wp-content/uploads/2023/09/CA-wet.jpg?resize=1024,576&ssl=1);
+    backdrop-filter: blur(5px);
+}
+footer div{
+color: azure;
+}
